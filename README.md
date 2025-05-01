@@ -11,6 +11,7 @@ An interactive Power BI dashboard to analyze retail sales across European countr
 - Identify high-performing countries and months
 - Support data-driven decisions through clear visual summaries
 
+
 ## 📊 Dashboard Highlights
 
 - 📅 Quantity, Revenue & Profit by Year
