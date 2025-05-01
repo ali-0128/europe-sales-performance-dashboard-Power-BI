@@ -1,32 +1,28 @@
-# 📦 Retail Sales & Supply Chain Dashboard – Power BI
+# 📊 Europe Sales Performance Dashboard – Power BI
 
-An interactive Power BI dashboard to analyze sales, profit, returns, shipping, and customer behavior across regions and product categories in a retail business.
+An interactive Power BI dashboard to analyze retail sales across European countries. The report highlights revenue trends, profit margins, order priorities, and product performance over a 4-year period.
 
 ---
 
 ## 🎯 Project Objective
 
-- Monitor overall sales, profit, and quantity performance across months
-- Understand the impact of returns, discounts, and shipping modes on profitability
-- Evaluate segment and product category performance
-- Analyze retail employee performance and customer preferences
-- Identify regional strengths and weaknesses using geographical insights
+- Track total sales, cost, profit, and quantity over time
+- Compare performance by product category, sales channel, and order priority
+- Identify high-performing countries and months
+- Support data-driven decisions through clear visual summaries
+
+## 📊 Dashboard Highlights
+
+- 📅 Quantity, Revenue & Profit by Year
+- 📈 Monthly Profit Trend
+- 🛍️ Profit by Product Type
+- 🌍 Profit by Country
+- 🛒 Profit by Sales Channel
+- 🔺 Profit by Order Priority
+- 🔍 Interactive filters by Year & Country
 
 ---
 
-## 🛠 Tools
+## 🖼️ Dashboard Preview
 
-- **Tool:** Power BI (Power Query, DAX, Visualizations)
-- **Visuals Used:** Bar charts, pie charts, KPIs, line charts, maps, scatter plots
-
----
-
-## 📊 Dashboard Sections
-
-- Sales & Profit Performance Overview
-- Category & Sub-Category Breakdown
-- Returns & Discount Analysis
-- Shipping Impact on Profit
-- Sales People Contribution & Delegation
-- Customer Segments & Product Preferences
-- Geographic Sales Distribution (States & Cities)
+![Europe Sales Dashboard](Europe-Sales-Records.png)
