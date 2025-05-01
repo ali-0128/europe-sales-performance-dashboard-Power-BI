@@ -26,4 +26,4 @@ An interactive Power BI dashboard to analyze retail sales across European countr
 
 ## 🖼️ Dashboard Preview
 
-![Europe Sales Dashboard](Europe-Sales-Records.png)
+![Dashboard Preview](Europe%20Sales%20Records.png)
