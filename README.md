@@ -10,7 +10,6 @@
 
 ## 2. Methodology & Technical Stack
 - Power BI was utilized extensively, showcasing proficiency in key business intelligence disciplines:
-- Data Modeling: Establishing robust relationships between Sales, Geography, and Date tables to ensure calculation accuracy and data integrity.
 - Advanced DAX: Calculating crucial accounting Key Performance Indicators (KPIs) such as Total Profit, Total Revenue, and Cost, providing a standardized financial perspective.
 - Data Transformation (Power Query): Cleaning, shaping, and validating the source data to guarantee high input quality.
 - Visual Design: Implementing a professional Dark Theme to enhance readability and draw immediate focus to key performance metrics.
@@ -37,4 +36,5 @@ This dashboard goes beyond mere reporting, delivering specific, actionable insig
 ## 🖼️ Dashboard Preview
 
 ![Dashboard Preview](Europe_Sales_Dashboard.png)
+
 
